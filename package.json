@@ -1,7 +1,7 @@
 {
-  "name": "@fullstackio/postgraphile-upsert-plugin",
+  "name": "@_lukepatrick/postgraphile-upsert-plugin",
   "description": "add postgres upsert mutations to postgraphile",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "main": "build/postgraphile-upsert.js",
   "files": [
     "build/*.js",
@@ -10,7 +10,7 @@
   "engines": {
     "node": ">=8"
   },
-  "maintainer": "nmurray <nate@fullstack.io>",
+  "maintainer": "lukepatrick",
   "license": "MIT",
   "devDependencies": {
     "@types/bluebird": "^3.5.24",
@@ -60,13 +60,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jashmenn/postgraphile-upsert-plugin"
+    "url": "https://github.com/lukepatrick/postgraphile-upsert-plugin"
   },
   "publishConfig": {
     "access": "public"
   },
   "release": {
-    "repositoryUrl": "git@github.com:jashmenn/postgraphile-upsert-plugin.git"
+    "repositoryUrl": "git@github.com:lukepatrick/postgraphile-upsert-plugin.git"
   },
   "keywords": [
     "postgres",

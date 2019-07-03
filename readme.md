@@ -79,5 +79,6 @@ mutation {
 
 ## Credits
 
-- This is a fork of the TypeScript [postgraphile-upsert-plugin](https://github.com/cdaringe/postgraphile-upsert)
+- This is a fork of [jashmenn/postgraphile-upsert-plugin](https://github.com/jashmenn/postgraphile-upsert-plugin)
+- Which itself is a fork of the TypeScript [postgraphile-upsert-plugin](https://github.com/cdaringe/postgraphile-upsert)
 - Which itself is a fork of [the original upsert plugin](https://github.com/einarjegorov/graphile-upsert-plugin/blob/master/index.js)
